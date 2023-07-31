@@ -1,9 +1,9 @@
 # FlutterNews
-### FlappyBird using flutter
+### Flutter News App(MVVM Pattern)
 
 ## 프로젝트 요약
 ![Langauge:Dart](https://img.shields.io/badge/Language-Flutter-blue) ![platform:CrossPlatForm](https://img.shields.io/badge/Platform-CrossPlatfrom-blue)
-> 2023.04.03 - 2023.04.10   
+> 2023.03.13 - 2023.03.20   
  
 > **Flutter 개인 프로젝트**
 * 인기 모바일 앱 게임인 FlappyBird를 Flutter를 활용하여 제작하였습니다.
